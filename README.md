@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk SIEM: Set up dashboards and conducted analysis of malicious activity.</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Investigation analysis of a brute force attack](README.md)
 - <b>Configuring, Enabling, and Updating Microsoft Defender & Microsoft Firewall</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Phishing Response Challenge by Security Blue Team</b>
