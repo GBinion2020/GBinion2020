@@ -1,6 +1,7 @@
 <h1>Hi, I'm Gabriel!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+<b></b>(All projects completed, in process of creating repositories to showcase remaining projects)<b>
 
 - <b>Splunk SIEM: Investigatios of malicious activity.</b>
   - [Investigation of unknown file found in employee registry](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/Lab3.md)
