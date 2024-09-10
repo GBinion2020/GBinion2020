@@ -18,6 +18,8 @@
 <h2>Certifications:</h2>
 
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/7030f832cab7dc2984a41b9d29092706)
+- [Security Blue Team Level 1 Certification](https://elearning.securityblue.team/home/certificate/457253661)
+- [CompTIA Security+ Certification](file:///Users/gbinion/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
