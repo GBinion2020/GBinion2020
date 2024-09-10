@@ -19,7 +19,7 @@
 
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/7030f832cab7dc2984a41b9d29092706)
 - [Security Blue Team Level 1 Certification](https://elearning.securityblue.team/home/certificate/457253661)
-- [CompTIA Security+ Certification](file:///Users/gbinion/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
+- [CompTIA Security+ Certification](https://www.credly.com/badges/e2cb4737-0091-4cd6-95e5-6d7ad501f9f7/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
