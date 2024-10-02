@@ -9,12 +9,8 @@
   - [Investigation of malicious port scanning](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/LAB2.md)
 - <b>Apply Filters to SQL Queries</b>
   - [Click to view!](https://medium.com/@gabriel.binion2020/portfolio-project-apply-filters-to-sql-queries-cb3616f8e559)
-- <b>Canyon Aeronautics Company Network Proposal</b>
-- <b>Phishing Response Challenge by Security Blue Team</b>
-- <b>MISP Threat Intel Platform lab by Security Blue Team</b>
-
-- <b>LINUX File Permissions<b/>
-<h2>Certifications:</h2>
+- <b>Home Lab/Cyber Range</b>
+  - [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
 
 - [Configuring, Enabling, and Updating Microsoft Defender & Microsoft Firewall by IBM](https://coursera.org/share/ce34f484414697b98085b27b5d3791c1)
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/7030f832cab7dc2984a41b9d29092706)
