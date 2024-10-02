@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
 <b></b>(All projects completed, in process of creating repositories to showcase remaining projects)<b>
+  
 - <b>Home Lab/Cyber Range</b>
   - [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
 - <b>Splunk SIEM: Investigatios of malicious activity.</b>
