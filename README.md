@@ -2,16 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <b></b>(All projects completed, in process of creating repositories to showcase remaining projects)<b>
-
+- <b>Home Lab/Cyber Range</b>
+  - [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
 - <b>Splunk SIEM: Investigatios of malicious activity.</b>
   - [Investigation of unknown file found in employee registry](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/Lab3.md)
   - [Investigation analysis of a brute force attack](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/README.md)
   - [Investigation of malicious port scanning](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/LAB2.md)
 - <b>Apply Filters to SQL Queries</b>
   - [Click to view!](https://medium.com/@gabriel.binion2020/portfolio-project-apply-filters-to-sql-queries-cb3616f8e559)
-- <b>Home Lab/Cyber Range</b>
-  - [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
-
+<h2>Certifications</h2>
 - [Configuring, Enabling, and Updating Microsoft Defender & Microsoft Firewall by IBM](https://coursera.org/share/ce34f484414697b98085b27b5d3791c1)
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/7030f832cab7dc2984a41b9d29092706)
 - [Security Blue Team Level 1 Certification](https://www.credly.com/badges/e2cb4737-0091-4cd6-95e5-6d7ad501f9f7/public_url)
