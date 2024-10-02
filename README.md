@@ -12,6 +12,7 @@
 - <b>Phishing Response Challenge by Security Blue Team</b>
 - <b>MISP Threat Intel Platform lab by Security Blue Team</b>
 - <b>Metadata & File Carving Digital Forensics Lab</b>
+  - [Click to view!](https://medium.com/@gabriel.binion2020/portfolio-project-apply-filters-to-sql-queries-cb3616f8e559)
 - <b>Canyon Aeronautics Company Network Proposal</b>
 - <b>Apply Filters to SQL Queries</b>
 - <b>LINUX File Permissions<b/>
