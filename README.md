@@ -11,6 +11,7 @@
 - <b>Apply Filters to SQL Queries</b>
   - [Click to view!](https://medium.com/@gabriel.binion2020/portfolio-project-apply-filters-to-sql-queries-cb3616f8e559)
 <h2>Certifications</h2>
+  
 - [Configuring, Enabling, and Updating Microsoft Defender & Microsoft Firewall by IBM] (https://coursera.org/share/ce34f484414697b98085b27b5d3791c1)
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/7030f832cab7dc2984a41b9d29092706)
 - [Security Blue Team Level 1 Certification](https://www.credly.com/badges/e2cb4737-0091-4cd6-95e5-6d7ad501f9f7/public_url)
