@@ -6,6 +6,7 @@
 - <b>Home Lab/Cyber Range</b>
   - [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
   - [Part Two](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-two-d86aaddd3768)
+  - [Part Three](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-three-cf05d65d0201)
 - <b>Splunk SIEM: Investigatios of malicious activity.</b>
   - [Investigation of unknown file found in employee registry](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/Lab3.md)
   - [Investigation analysis of a brute force attack](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/README.md)
