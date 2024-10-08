@@ -13,7 +13,8 @@
   - [Investigation of malicious port scanning](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/LAB2.md)
 - <b>Apply Filters to SQL Queries</b>
   - [Click to view!](https://medium.com/@gabriel.binion2020/portfolio-project-apply-filters-to-sql-queries-cb3616f8e559)
-  
+- <b>Hacking Metasploitable 2 using Nessus</b>
+  - [Click to view!](https://medium.com/@gabriel.binion2020/project-hacking-metasploitable-2-using-nessus-af9c3525005a)
 <h2>Certifications</h2>
   
 - [Configuring, Enabling, and Updating Microsoft Defender & Microsoft Firewall by IBM](https://coursera.org/share/ce34f484414697b98085b27b5d3791c1)
