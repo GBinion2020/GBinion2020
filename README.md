@@ -6,14 +6,11 @@
 - <b>The Cloud Resume Challenge (AWS)</b>
   - [Part One](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-one-fb4a07428f88)
   - [Part Two](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-two-1eddc7032ee4)
-- <b>Hardening My Cloud Resume Website with AWS WAF: A Hands-On Cloud Security Project</b>
-  - [Click Here](https://medium.com/@gabriel.binion2020/hardening-my-cloud-resume-website-with-aws-waf-a-hands-on-cloud-security-project-05fd46aa3faf)
-- <b>AWS: Attacking S3</b>
-  - [Click Here](https://medium.com/@gabriel.binion2020/attacking-aws-s3-cad999778ff6)
-- <b>AWS: Attacking VPC/EC2 — Data Exfiltration</b>
-  - [Click Here](https://medium.com/@gabriel.binion2020/aws-attacking-vpc-ec2-data-exfiltration-0e75ce954369)
-- <b>IAM Credential Compromise Automated Detection</b>
-  - [Click Here](https://medium.com/@gabriel.binion2020/iam-credential-compromise-automated-detection-57bef75cb5bc) 
+- <b>AWS Cloud Security Projects</b>
+  - [IAM Credential Compromise Automated Detection](https://medium.com/@gabriel.binion2020/iam-credential-compromise-automated-detection-57bef75cb5bc) 
+  - [Hardening My Cloud Resume Website with AWS WAF: A Hands-On Cloud Security Project](https://medium.com/@gabriel.binion2020/hardening-my-cloud-resume-website-with-aws-waf-a-hands-on-cloud-security-project-05fd46aa3faf)
+  - [AWS: Attacking S3](https://medium.com/@gabriel.binion2020/attacking-aws-s3-cad999778ff6)
+  - [AWS: Attacking VPC/EC2 — Data Exfiltration](https://medium.com/@gabriel.binion2020/aws-attacking-vpc-ec2-data-exfiltration-0e75ce954369)
 - <b>Home Lab/Cyber Range</b>
   - [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
   - [Part Two](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-two-d86aaddd3768)
