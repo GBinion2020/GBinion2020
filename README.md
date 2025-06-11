@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
 <b></b>(All projects completed, in process of creating repositories to showcase remaining projects)<b>
-  
+- <b>IAM Credential Compromise Automated Detection</b>
+  - [Click Here](https://medium.com/@gabriel.binion2020/iam-credential-compromise-automated-detection-57bef75cb5bc)
 - <b>Home Lab/Cyber Range</b>
   - [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
   - [Part Two](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-two-d86aaddd3768)
