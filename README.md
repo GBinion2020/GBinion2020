@@ -25,12 +25,14 @@
 - <b>Network Intelligence with NMAP</b>
   - [Click to view!](https://medium.com/@gabriel.binion2020/network-intelligence-with-nmap-d0c6e7cb628d) 
 <h2>Certifications</h2>
-  
+
+- [AWS Security Speciality](https://www.credly.com/badges/9f3a0559-0950-4568-85e6-92f95f9ef2c5/public_url)
+- [CompTIA Security+ Certification](https://www.credly.com/badges/b0222207-024d-40c5-a170-e81dbf65b35f/public_url)
+- [CompTIA CySA+ Certification](https://www.credly.com/badges/11145388-3051-4f11-943c-771644193a48/public_url)
 - [Configuring, Enabling, and Updating Microsoft Defender & Microsoft Firewall by IBM](https://coursera.org/share/ce34f484414697b98085b27b5d3791c1)
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/7030f832cab7dc2984a41b9d29092706)
 - [Security Blue Team Level 1 Certification](https://www.credly.com/badges/e2cb4737-0091-4cd6-95e5-6d7ad501f9f7/public_url)
-- [CompTIA Security+ Certification](https://www.credly.com/badges/b0222207-024d-40c5-a170-e81dbf65b35f/public_url)
-- [CompTIA CySA+ Certification](https://www.credly.com/badges/11145388-3051-4f11-943c-771644193a48/public_url)
+
 
 <h2> 🤳 Connect with me:</h2>
 
