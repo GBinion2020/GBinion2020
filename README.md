@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gabriel!
 
-<h2>👨‍💻 Cybersecurity and Cloud Projects:</h2> 
+<h2>👨‍💻 Security Engineering Projects:</h2> 
   
 - <b>The Cloud Resume Challenge (AWS)</b>
   - [Part One](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-one-fb4a07428f88)
