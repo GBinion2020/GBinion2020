@@ -1,7 +1,8 @@
 <h1>Hi, I'm Gabriel!
 
 <h2>👨‍💻 Security Engineering Projects:</h2> 
-  
+- <b>Elastic Detection-as-Code</b>
+  - [Click to view](https://github.com/GBinion2020/Elastic-Detection-as-Code)
 - <b>The Cloud Resume Challenge (AWS)</b>
   - [Part One](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-one-fb4a07428f88)
   - [Part Two](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-two-1eddc7032ee4)
