@@ -4,7 +4,7 @@
 
 ### **SOC AI Triage Agent**
 - [Click to view](https://github.com/GBinion2020/AI-Triage-Agent)
-- 
+  
 ### **Elastic Detection‑as‑Code**
 - [Click to view](https://github.com/GBinion2020/Elastic-Detection-as-Code)
 
