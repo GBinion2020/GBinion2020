@@ -2,7 +2,10 @@
 
 ## 👨‍💻 Security Engineering Projects
 
-### **SOC AI Triage Agent**
+### **SOC AI Triage Agent v2**
+- [Click to view](https://github.com/GBinion2020/AI-Triage-Agent-v2)
+  
+### **SOC AI Triage Agent v1**
 - [Click to view](https://github.com/GBinion2020/AI-Triage-Agent)
   
 ### **Elastic Detection‑as‑Code**
