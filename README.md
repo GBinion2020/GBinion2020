@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Security Engineering Projects
 
-### **SOC AI Triage Agent v2**
+### **Agentic RAG SOC AI Triage Agent v2**
 - [Click to view](https://github.com/GBinion2020/AI-Triage-Agent-v2)
   
 ### **SOC AI Triage Agent v1**
