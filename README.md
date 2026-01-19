@@ -2,6 +2,9 @@
 
 ## 👨‍💻 Security Engineering Projects
 
+### **SOC AI Triage Agent v3 (Multi-Agent, MCP, and more)**
+- [Click to view](https://github.com/GBinion2020/AI-Triage-AgentV3-)
+
 ### **SOC AI Triage Agent v2 (Agentic RAG)**
 - [Click to view](https://github.com/GBinion2020/AI-Triage-Agent-v2)
   
