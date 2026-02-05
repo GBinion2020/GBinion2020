@@ -8,8 +8,10 @@
 ### **SOC AI Triage Agent v2 (Agentic RAG)**
 - [Click to view](https://github.com/GBinion2020/AI-Triage-Agent-v2)
   
-### **SOC AI Triage Agent v1**
-- [Click to view](https://github.com/GBinion2020/AI-Triage-Agent)
+### **AI Triage Agent*
+- [Version3 - Multi-agentic, MCP, and more](https://github.com/GBinion2020/AI-Triage-AgentV3-)
+- [Version2 - Agentic RAG](https://github.com/GBinion2020/AI-Triage-Agent-v2)
+- [Version1](https://github.com/GBinion2020/AI-Triage-Agent)
   
 ### **Elastic Detection‑as‑Code**
 - [Click to view](https://github.com/GBinion2020/Elastic-Detection-as-Code)
