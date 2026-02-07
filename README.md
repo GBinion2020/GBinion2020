@@ -14,9 +14,6 @@
 
 ---
 
-## Mission
-Build secure, observable systems and automate triage to reduce mean time to respond.
-
 ## Focus
 - Detection engineering and cloud security
 - SOC automation and AI assisted investigation
@@ -87,9 +84,13 @@ Build secure, observable systems and automate triage to reduce mean time to resp
 ---
 
 ## Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GBinion2020&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" />
-  <img src="https://streak-stats.demolab.com?user=GBinion2020&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<div align=\"center\">
+  <img src=\"https://github-readme-stats.vercel.app/api?username=GBinion2020&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b0f19&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF\" />
+  <img src=\"https://streak-stats.demolab.com?user=GBinion2020&hide_border=true&background=0b0f19&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9\" />
+</div>
+
+<div align=\"center\">
+  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=GBinion2020&bg_color=0b0f19&color=c9d1d9&line=00E5FF&point=ffffff&hide_border=true\" />
 </div>
 
 ---
@@ -98,3 +99,5 @@ Build secure, observable systems and automate triage to reduce mean time to resp
 - LinkedIn: https://linkedin.com/in/gabriel-binion
 - Medium: https://medium.com/@gabriel.binion2020
 - GitHub: https://github.com/GBinion2020
+
+
