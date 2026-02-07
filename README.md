@@ -42,20 +42,42 @@ CURRENT MODE: BUILDING
 ---
 
 ## Featured Projects
-| Project | What it is | Links |
-| --- | --- | --- |
-| AI Triage Agent | Multi agent triage and RAG workflows for investigations | [Version 3](https://github.com/GBinion2020/AI-Triage-AgentV3-)<br>[Version 2](https://github.com/GBinion2020/AI-Triage-Agent-v2)<br>[Version 1](https://github.com/GBinion2020/AI-Triage-Agent) |
-| RLM Investigation Agent | LLM driven investigation assistant | [Repository](https://github.com/GBinion2020/RLM-Investigation-Agent) |
-| Elastic Detection as Code | Detection rules as code for Elastic | [Repository](https://github.com/GBinion2020/Elastic-Detection-as-Code) |
+**AI Triage Agent**
+- [Version 3 - Multi agent triage and RAG](https://github.com/GBinion2020/AI-Triage-AgentV3-)
+- [Version 2 - Agentic RAG](https://github.com/GBinion2020/AI-Triage-Agent-v2)
+- [Version 1](https://github.com/GBinion2020/AI-Triage-Agent)
+
+**RLM Investigation Agent**
+- [Repository](https://github.com/GBinion2020/RLM-Investigation-Agent)
+
+**Elastic Detection as Code**
+- [Repository](https://github.com/GBinion2020/Elastic-Detection-as-Code)
 
 ## Cloud Security and Labs
-| Project | What it is | Links |
-| --- | --- | --- |
-| Cloud Resume Challenge | AWS resume infrastructure and security | [Part One](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-one-fb4a07428f88)<br>[Part Two](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-two-1eddc7032ee4) |
-| AWS Cloud Security Projects | IAM, WAF, S3, and VPC labs | [IAM Credential Compromise](https://medium.com/@gabriel.binion2020/iam-credential-compromise-automated-detection-57bef75cb5bc)<br>[WAF Hardening](https://medium.com/@gabriel.binion2020/hardening-my-cloud-resume-website-with-aws-waf-a-hands-on-cloud-security-project-05fd46aa3faf)<br>[Attacking S3](https://medium.com/@gabriel.binion2020/attacking-aws-s3-cad999778ff6)<br>[VPC Data Exfiltration](https://medium.com/@gabriel.binion2020/aws-attacking-vpc-ec2-data-exfiltration-0e75ce954369) |
-| Home Lab and Cyber Range | Lab build out and practice | [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)<br>[Part Two](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-two-d86aaddd3768)<br>[Part Three](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-three-cf05d65d0201) |
-| Splunk SIEM Investigations | Investigation playbooks and analysis | [Unknown File](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/Lab3.md)<br>[Brute Force](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/README.md)<br>[Port Scanning](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/LAB2.md) |
-| Additional Labs | SQL, Nessus, and Nmap | [SQL Filters](https://medium.com/@gabriel.binion2020/portfolio-project-apply-filters-to-sql-queries-cb3616f8e559)<br>[Metasploitable 2 + Nessus](https://medium.com/@gabriel.binion2020/project-hacking-metasploitable-2-using-nessus-af9c3525005a)<br>[Nmap Intelligence](https://medium.com/@gabriel.binion2020/network-intelligence-with-nmap-d0c6e7cb628d) |
+**Cloud Resume Challenge**
+- [Part One](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-one-fb4a07428f88)
+- [Part Two](https://medium.com/@gabriel.binion2020/the-cloud-resume-challenge-aws-part-two-1eddc7032ee4)
+
+**AWS Cloud Security Projects**
+- [IAM Credential Compromise Automated Detection](https://medium.com/@gabriel.binion2020/iam-credential-compromise-automated-detection-57bef75cb5bc)
+- [Hardening My Cloud Resume Website with AWS WAF](https://medium.com/@gabriel.binion2020/hardening-my-cloud-resume-website-with-aws-waf-a-hands-on-cloud-security-project-05fd46aa3faf)
+- [AWS Attacking S3](https://medium.com/@gabriel.binion2020/attacking-aws-s3-cad999778ff6)
+- [AWS Attacking VPC or EC2 Data Exfiltration](https://medium.com/@gabriel.binion2020/aws-attacking-vpc-ec2-data-exfiltration-0e75ce954369)
+
+**Home Lab and Cyber Range**
+- [Part One](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-one-94b135572753)
+- [Part Two](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-two-d86aaddd3768)
+- [Part Three](https://medium.com/@gabriel.binion2020/home-lab-cyber-range-part-three-cf05d65d0201)
+
+**Splunk SIEM Investigations**
+- [Investigation of unknown file found in employee registry](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/Lab3.md)
+- [Investigation analysis of a brute force attack](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/README.md)
+- [Investigation of malicious port scanning](https://github.com/GBinion2020/SplunkSIEMLab/blob/main/LAB2.md)
+
+**Additional Labs**
+- [Apply Filters to SQL Queries](https://medium.com/@gabriel.binion2020/portfolio-project-apply-filters-to-sql-queries-cb3616f8e559)
+- [Hacking Metasploitable 2 using Nessus](https://medium.com/@gabriel.binion2020/project-hacking-metasploitable-2-using-nessus-af9c3525005a)
+- [Network Intelligence with Nmap](https://medium.com/@gabriel.binion2020/network-intelligence-with-nmap-d0c6e7cb628d)
 
 ---
 
