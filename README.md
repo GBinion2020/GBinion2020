@@ -17,7 +17,7 @@
 ## Focus
 - Detection engineering and cloud security
 - SOC automation and AI assisted investigation
-- Defensive research and lab validation
+- Defensive research
 
 ## Tech Stack
 <div align="center">
