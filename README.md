@@ -22,13 +22,6 @@ Build secure, observable systems and automate triage to reduce mean time to resp
 - SOC automation and AI assisted investigation
 - Defensive research and lab validation
 
-## System Status
-```text
-STATUS: ONLINE
-PRIMARY STACK: AWS | Elastic | Splunk | Python
-CURRENT MODE: BUILDING
-```
-
 ## Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Python-0b0f19?style=for-the-badge&logo=python&logoColor=00E5FF" />
@@ -82,12 +75,14 @@ CURRENT MODE: BUILDING
 ---
 
 ## Certifications
-- [AWS Security Specialty](https://www.credly.com/badges/9f3a0559-0950-4568-85e6-92f95f9ef2c5/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/b0222207-024d-40c5-a170-e81dbf65b35f/public_url)
-- [CompTIA CySA+](https://www.credly.com/badges/11145388-3051-4f11-943c-771644193a48/public_url)
-- [Security Blue Team Level 1](https://www.credly.com/badges/e2cb4737-0091-4cd6-95e5-6d7ad501f9f7/public_url)
-- [Google Cybersecurity Professional Certification](https://coursera.org/share/7030f832cab7dc2984a41b9d29092706)
-- [Configuring, Enabling, and Updating Microsoft Defender and Firewall (IBM)](https://coursera.org/share/ce34f484414697b98085b27b5d3791c1)
+<div align="center">
+  <a href="https://www.credly.com/badges/9f3a0559-0950-4568-85e6-92f95f9ef2c5/public_url"><img src="https://img.shields.io/badge/AWS%20Security%20Specialty-0b0f19?style=for-the-badge&logo=amazon-aws&logoColor=00E5FF" /></a>
+  <a href="https://www.credly.com/badges/b0222207-024d-40c5-a170-e81dbf65b35f/public_url"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-0b0f19?style=for-the-badge&logo=comptia&logoColor=00E5FF" /></a>
+  <a href="https://www.credly.com/badges/11145388-3051-4f11-943c-771644193a48/public_url"><img src="https://img.shields.io/badge/CompTIA%20CySA%2B-0b0f19?style=for-the-badge&logo=comptia&logoColor=00E5FF" /></a>
+  <a href="https://www.credly.com/badges/e2cb4737-0091-4cd6-95e5-6d7ad501f9f7/public_url"><img src="https://img.shields.io/badge/Security%20Blue%20Team%20L1-0b0f19?style=for-the-badge&logo=credly&logoColor=00E5FF" /></a>
+  <a href="https://coursera.org/share/7030f832cab7dc2984a41b9d29092706"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-0b0f19?style=for-the-badge&logo=google&logoColor=00E5FF" /></a>
+  <a href="https://coursera.org/share/ce34f484414697b98085b27b5d3791c1"><img src="https://img.shields.io/badge/IBM%20Defender%20and%20Firewall-0b0f19?style=for-the-badge&logo=ibm&logoColor=00E5FF" /></a>
+</div>
 
 ---
 
