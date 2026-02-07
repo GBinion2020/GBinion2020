@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/AWS-0b0f19?style=for-the-badge&logo=amazon-aws&logoColor=00E5FF" />
   <img src="https://img.shields.io/badge/Splunk-0b0f19?style=for-the-badge&logo=splunk&logoColor=00E5FF" />
   <img src="https://img.shields.io/badge/Docker-0b0f19?style=for-the-badge&logo=docker&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Azure-0b0f19?style=for-the-badge&logo=microsoft-azure&logoColor=00E5FF" />
   <img src="https://img.shields.io/badge/Linux-0b0f19?style=for-the-badge&logo=linux&logoColor=00E5FF" />
 </div>
 
@@ -83,21 +84,11 @@
 
 ---
 
-## Activity
-<div align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api?username=GBinion2020&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b0f19&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF\" />
-  <img src=\"https://streak-stats.demolab.com?user=GBinion2020&hide_border=true&background=0b0f19&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9\" />
-</div>
-
-<div align=\"center\">
-  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=GBinion2020&bg_color=0b0f19&color=c9d1d9&line=00E5FF&point=ffffff&hide_border=true\" />
-</div>
-
----
-
 ## Connect
+
 - LinkedIn: https://linkedin.com/in/gabriel-binion
 - Medium: https://medium.com/@gabriel.binion2020
 - GitHub: https://github.com/GBinion2020
+
 
 
