@@ -1,6 +1,10 @@
 # Hi, I'm Gabriel!
 
 ## 👨‍💻 Security Engineering Projects
+
+### **RLM Investigation Agent*
+- [Version1](https://github.com/GBinion2020/RLM-Investigation-Agent)
+
   
 ### **AI Triage Agent*
 - [Version3 - Multi-agentic, MCP, and more](https://github.com/GBinion2020/AI-Triage-AgentV3-)
