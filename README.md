@@ -33,7 +33,7 @@
 ---
 
 ## Featured Projects
-**AI Phishing Agent (In Development)** 
+**AI Phishing Agent** 
 - [Repository](https://github.com/GBinion2020/Phishing-Agent)
 
 **AI Triage Agent**
