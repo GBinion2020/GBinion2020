@@ -33,6 +33,9 @@
 ---
 
 ## Featured Projects
+**AI Triage Agent with SOC Platform** 
+- [Repository](https://github.com/GBinion2020/AI-Triage-Agent-with-SOC-Platform)
+
 **AI Phishing Agent** 
 - [Repository](https://github.com/GBinion2020/Phishing-Agent)
 
@@ -44,6 +47,9 @@
 **RLM Investigation Agent**
 - [Repository](https://github.com/GBinion2020/RLM-Investigation-Agent)
 
+**AI Threat Intelligence to Detection (as Code)**
+- [Repository](https://github.com/GBinion2020/AI-Threat-Intel-detection-as-code-pipeline)
+  
 **Elastic Detection as Code**
 - [Repository](https://github.com/GBinion2020/Elastic-Detection-as-Code)
 
