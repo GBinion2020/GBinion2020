@@ -44,7 +44,7 @@
 - [Version 2 - Agentic RAG](https://github.com/GBinion2020/AI-Triage-Agent-v2)
 - [Version 1](https://github.com/GBinion2020/AI-Triage-Agent)
 
-**RLM Investigation Agent**
+**RLM (Recursive Learning Model) Investigation Agent**
 - [Repository](https://github.com/GBinion2020/RLM-Investigation-Agent)
 
 **AI Threat Intelligence to Detection (as Code)**
